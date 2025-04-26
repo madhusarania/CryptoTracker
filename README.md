@@ -53,10 +53,13 @@ Whether you're a crypto enthusiast or just starting your investment journey, Cry
 To get the app running locally, follow these simple steps:
 **Clone the repository**:
 
-   ```bash
+   bash
    git clone https://github.com/madhusarania/CryptoTracker.git
+---
 
-## ✨ Screenshots
+
+
+### ✨ Screenshots
 <p align="center">
 <img src="https://github.com/user-attachments/assets/fce9d644-8d13-46dc-90c8-bbb4eb10079e" width="1000" height="600" alt="Image 1"><br>
 <img src="https://github.com/user-attachments/assets/88f391a8-cc81-43be-b902-b30feb063065" width="1000" height="600" alt="Image 2"><br>
