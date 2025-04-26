@@ -42,7 +42,7 @@ Whether you're a crypto enthusiast or just starting your investment journey, Cry
 | **State Management**  | Redux Toolkit                        |
 | **Styling**           | Tailwind CSS                         |
 | **API Calls**         | Axios                                |
-| **Charts**            | Chart.js, React Chart.js 2           |
+| **Charts**            | Sparkline charts          |
 | **Build Tool**        | Vite                                 |
 | **Data Source**       | CoinGecko API                        |
 
@@ -51,14 +51,16 @@ Whether you're a crypto enthusiast or just starting your investment journey, Cry
 ### 🚀 **Getting Started**
 
 To get the app running locally, follow these simple steps:
-
-1. **Clone the repository**:
+**Clone the repository**:
 
    ```bash
    git clone https://github.com/madhusarania/CryptoTracker.git
 
-### **To-Do:**
-- **Screenshots**: Replace the placeholder links (e.g., `add-screenshot-link`) with the actual screenshot URLs.
+## ✨ Screenshots
+<p align="center">
+<img src="https://github.com/user-attachments/assets/fce9d644-8d13-46dc-90c8-bbb4eb10079e" width="1000" height="600" alt="Image 1"><br>
+<img src="https://github.com/user-attachments/assets/88f391a8-cc81-43be-b902-b30feb063065" width="1000" height="600" alt="Image 2"><br>
+</p>
 
 - **License**: This project is licensed under the MIT License.
 
