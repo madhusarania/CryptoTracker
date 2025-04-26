@@ -55,6 +55,7 @@ To get the app running locally, follow these simple steps:
 
    bash
    git clone https://github.com/madhusarania/CryptoTracker.git
+   
 ---
 
 
@@ -65,5 +66,18 @@ To get the app running locally, follow these simple steps:
 <img src="https://github.com/user-attachments/assets/88f391a8-cc81-43be-b902-b30feb063065" width="1000" height="600" alt="Image 2"><br>
 </p>
 
-- **License**: This project is licensed under the MIT License.
+Demo Video :- https://drive.google.com/file/d/1CnpFtmYi5LORiuicDkj63IfbZJhLR4fs/view
+
+---
+<h2 id="license">📜 License</h2>
+<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
+
+---
+
+<h2 id="contact">📞 Contact</h2>
+<p>Madhu Sarania</p>
+<ul>
+  <li><a href="https://github.com/madhusarania">GitHub</a></li>
+  <li><a href="https://www.linkedin.com/in/madhusarania/">LinkedIn</a></li>
+</ul>
 
